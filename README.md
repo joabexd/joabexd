@@ -1,4 +1,7 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil 👋
+
+Sou o Joabe, tenho 18 anos e atualmente trabalho na Hyundai AutoEver 🔭
+
 
 <!--
 **joabexd/joabexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
