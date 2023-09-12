@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu perfil 👋
 
-Sou o Joabe, tenho 18 anos e atualmente trabalho na Hyundai AutoEver 🔭
+Sou o Joabe, estudante de Segurança da Informação na Fatec Americana e atualmente estagiário na Hyundai AutoEver, sou apaixonado em música e escrita. 
 
 
 <!--
